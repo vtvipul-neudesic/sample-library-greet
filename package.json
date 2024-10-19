@@ -6,7 +6,8 @@
     "module": "dist/index.mjs",
     "types": "dist/index.d.ts",
     "scripts": {
-        "build": "tsup"
+        "build": "tsup",
+        "prepack": "npm run build"
     },
     "author": "vt",
     "license": "ISC",

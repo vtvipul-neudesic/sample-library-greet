@@ -1,1 +1,0 @@
-{"version":3,"sources":["../src/greet.ts"],"sourcesContent":["import { GreetProps } from \"./types\";\r\n\r\nexport const greet = ({ firstName, lastName }: GreetProps): string =>\r\n    `Hello ${lastName}, ${firstName}!`;\r\n"],"mappings":";AAEO,IAAM,QAAQ,CAAC,EAAE,WAAW,SAAS,MACxC,SAAS,QAAQ,KAAK,SAAS;","names":[]}

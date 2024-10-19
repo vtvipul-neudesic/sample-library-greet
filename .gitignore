@@ -1,9 +1,2 @@
 node_modules
-src
-
-tsconfig.json
-tsup.config.ts
-
-*.ts
-
-.prettierrc
+dist
