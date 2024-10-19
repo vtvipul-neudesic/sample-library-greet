@@ -5,6 +5,11 @@
     "main": "dist/index.js",
     "module": "dist/index.mjs",
     "types": "dist/index.d.ts",
+    "homepage": "https://github.com/vtvipul-neudesic/sample-library-greet.git",
+    "repository": {
+        "type": "https",
+        "url": "https://github.com/vtvipul-neudesic/sample-library-greet.git"
+    },
     "scripts": {
         "build": "tsup",
         "prepack": "tsup",
